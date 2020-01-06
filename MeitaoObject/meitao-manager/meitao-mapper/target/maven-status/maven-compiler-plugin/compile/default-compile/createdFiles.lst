@@ -1,0 +1,12 @@
+com\jbit\meitao\mapper\UserMapper.class
+com\jbit\meitao\mapper\RoleMapper.class
+com\jbit\meitao\mapper\CustomerMapper.class
+com\jbit\meitao\mapper\CategoryMapper.class
+com\jbit\meitao\mapper\ProductMapper.class
+com\jbit\meitao\mapper\PrivilegeMapper.class
+com\jbit\meitao\mapper\OrdersDetailMapper.class
+com\jbit\meitao\mapper\AreaMapper.class
+com\jbit\meitao\mapper\FunctionsMapper.class
+com\jbit\meitao\mapper\JedisDao.class
+com\jbit\meitao\mapper\ShopMapper.class
+com\jbit\meitao\mapper\OrdersMapper.class

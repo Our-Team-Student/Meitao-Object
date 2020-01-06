@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="meitao-web:war">
+    <output-path>$PROJECT_DIR$/meitao-manager/meitao-web/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>meitao-web</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="meitao-web.war">
+      <element id="artifact" artifact-name="meitao-web:war exploded" />
+    </root>
+  </artifact>
+</component>

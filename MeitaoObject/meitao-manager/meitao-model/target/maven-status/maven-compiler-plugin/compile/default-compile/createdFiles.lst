@@ -1,0 +1,10 @@
+com\jbit\meitao\service\model\AreaModel.class
+com\jbit\meitao\service\model\CustomerModel.class
+com\jbit\meitao\service\model\CategoryModel.class
+com\jbit\meitao\service\model\PrivilegeModel.class
+com\jbit\meitao\service\model\RoleModel.class
+com\jbit\meitao\service\model\OrdersModel.class
+com\jbit\meitao\service\model\ProductModel.class
+com\jbit\meitao\service\model\UserModel.class
+com\jbit\meitao\service\model\FunctionsModel.class
+com\jbit\meitao\service\model\ShopModel.class

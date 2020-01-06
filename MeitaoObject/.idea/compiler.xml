@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="meitao-web-portal" />
+        <module name="meitao-web" />
+        <module name="meitao-pojo" />
+        <module name="meitao-model" />
+        <module name="meitao-service" />
+        <module name="meitao-mapper" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="meitao-comment" target="1.8" />
+      <module name="meitao-manager" target="1.8" />
+      <module name="meitao-mapper" target="1.8" />
+      <module name="meitao-model" target="1.8" />
+      <module name="meitao-parent" target="1.8" />
+      <module name="meitao-pojo" target="1.8" />
+      <module name="meitao-service" target="1.8" />
+      <module name="meitao-web" target="1.8" />
+      <module name="meitao-web-portal" target="1.8" />
+      <module name="meitao-web-text" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

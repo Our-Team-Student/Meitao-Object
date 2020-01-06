@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/meitao-comment/meitao-comment.iml" filepath="$PROJECT_DIR$/meitao-comment/meitao-comment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meitao-manager/meitao-manager.iml" filepath="$PROJECT_DIR$/meitao-manager/meitao-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meitao-manager/meitao-mapper/meitao-mapper.iml" filepath="$PROJECT_DIR$/meitao-manager/meitao-mapper/meitao-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meitao-manager/meitao-model/meitao-model.iml" filepath="$PROJECT_DIR$/meitao-manager/meitao-model/meitao-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meitao-parent/meitao-parent.iml" filepath="$PROJECT_DIR$/meitao-parent/meitao-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meitao-manager/meitao-pojo/meitao-pojo.iml" filepath="$PROJECT_DIR$/meitao-manager/meitao-pojo/meitao-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meitao-manager/meitao-service/meitao-service.iml" filepath="$PROJECT_DIR$/meitao-manager/meitao-service/meitao-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meitao-manager/meitao-web/meitao-web.iml" filepath="$PROJECT_DIR$/meitao-manager/meitao-web/meitao-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meitao-manager/meitao-web-portal/meitao-web-portal.iml" filepath="$PROJECT_DIR$/meitao-manager/meitao-web-portal/meitao-web-portal.iml" />
+    </modules>
+  </component>
+</project>

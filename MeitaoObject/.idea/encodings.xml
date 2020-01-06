@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/meitao-comment" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meitao-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meitao-manager/meitao-mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meitao-manager/meitao-model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meitao-manager/meitao-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meitao-manager/meitao-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meitao-manager/meitao-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meitao-manager/meitao-web-portal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meitao-parent" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
